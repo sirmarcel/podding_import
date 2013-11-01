@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_portile (0.5.2)
+    nokogiri (1.6.0)
+      mini_portile (~> 0.5.0)
+    redcarpet (3.0.0)
+    reverse_markdown (0.4.6)
+      nokogiri
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  nokogiri
+  redcarpet
+  reverse_markdown
